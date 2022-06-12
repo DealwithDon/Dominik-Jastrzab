@@ -133,7 +133,7 @@ td{border: black 1px dotted; width: 250px; height: 75px}
 #mySidenav a {
   position: fixed;
   right: -180px;
-  transition: 0.3s;
+  transition: 1s;
   padding: 15px;
   width: 200px;
   text-decoration: none;
